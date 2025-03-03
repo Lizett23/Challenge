@@ -13,7 +13,7 @@
 - Opciones para reiniciar y realizar nuevos sorteos en la misma sesión.
 
 ## Cómo Usarlo
-- Debes ingresar al siguiente link: 
+- Debes ingresar al siguiente link: https://lizett23.github.io/Challenge/
 ## Ayuda
 Si encuentras problemas o tienes alguna consulta sobre el proyecto, puedes contactarme directamente a través de mi correo: lizett.stm@gmail.com.
 
