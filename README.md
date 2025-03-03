@@ -18,4 +18,4 @@
 Si encuentras problemas o tienes alguna consulta sobre el proyecto, puedes contactarme directamente a través de mi correo: lizett.stm@gmail.com.
 
 ## Autores
-`Lizett Tapia Morales - Desarrolladora y creadora del proyecto.`
+`Lizett Tapia Morales 🌸 - Desarrolladora y creadora del proyecto.`
